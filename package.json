@@ -1,0 +1,17 @@
+{
+  "name": "subscribersapi",
+  "version": "1.0.0",
+  "description":"Email Lists subscribers rest api",
+  "author":"Aniket Savanand<aniketpsavanand@gmail.com>",
+  "dependencies":
+  {
+    "body-parser": "1.15.2",
+    "express": "4.14.0",
+    "mongojs":"2.4.0",
+    "request":"2.75.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/savanand/emailsubscribers"
+  }
+}
